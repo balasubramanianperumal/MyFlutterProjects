@@ -1,3 +1,3 @@
 # MyFlutterProjects
 My work
-I have done these projects through reference from udemy course and the app brewery,solely i have have no copyrights
+I have done these projects by taking references from udemy course and the app brewery,solely i don't own any copyrights
