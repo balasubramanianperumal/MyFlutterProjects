@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "945271320005",
+    "firebase_url": "https://spendify-db98e.firebaseio.com",
+    "project_id": "spendify-db98e",
+    "storage_bucket": "spendify-db98e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:945271320005:android:c88303372371ca28722fac",
+        "android_client_info": {
+          "package_name": "com.balasubramanianperumal.expense_detection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "945271320005-k66sn4sc9v9vbhqiarv4odcisvfinele.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAN1yN9GPpUViiKjntnWHESter0GFZnBG0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "945271320005-k66sn4sc9v9vbhqiarv4odcisvfinele.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
